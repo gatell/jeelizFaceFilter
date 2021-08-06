@@ -2,7 +2,7 @@
 
 const SETTINGS = {
   // art painting settings:
-  artPainting: 'images/Joconde.jpg', // initial art painting
+  artPainting: 'images/regina.jpg', // initial art painting
   detectState: {x:-0.09803,y:0.44314,s:0.18782,ry:-0.04926}, // detect state in the initial art painting to avoid search step
 
   nDetectsArtPainting: 25, // number of positive detections to perfectly locate the face in the art painting
